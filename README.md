@@ -1,4 +1,4 @@
 #THis is the sample prototype of my project
 #yet to be finished
 
-this is done using synthetic data generator
+this is done using synthetic data generator soon will be from direct real time live data
